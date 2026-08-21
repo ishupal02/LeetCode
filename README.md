@@ -9,9 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishupal02/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ishupal02/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishupal02/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
