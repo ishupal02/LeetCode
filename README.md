@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishupal02/LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishupal02/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -37,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
