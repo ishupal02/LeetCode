@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishupal02/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
