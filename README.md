@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
+| [0520-detect-capital](https://github.com/ishupal02/LeetCode/tree/master/0520-detect-capital) |
 ## Two Pointers
 |  |
 | ------- |
