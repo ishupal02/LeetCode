@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishupal02/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ishupal02/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/ishupal02/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ishupal02/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/ishupal02/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ishupal02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ishupal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## String
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ishupal02/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishupal02/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ishupal02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ishupal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Union-Find
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ishupal02/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
