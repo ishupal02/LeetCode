@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishupal02/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishupal02/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ishupal02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/ishupal02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishupal02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishupal02/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ishupal02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ishupal02/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ishupal02/LeetCode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/ishupal02/LeetCode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
