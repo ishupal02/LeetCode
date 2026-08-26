@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ishupal02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/ishupal02/LeetCode/tree/master/0520-detect-capital) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishupal02/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/ishupal02/LeetCode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ishupal02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishupal02/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishupal02/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
