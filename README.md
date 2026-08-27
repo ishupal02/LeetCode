@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/ishupal02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/ishupal02/LeetCode/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishupal02/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishupal02/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ishupal02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishupal02/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/ishupal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishupal02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishupal02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
