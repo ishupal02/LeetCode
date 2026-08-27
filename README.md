@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ishupal02/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ishupal02/LeetCode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/ishupal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishupal02/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ishupal02/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/ishupal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/ishupal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishupal02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ishupal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
