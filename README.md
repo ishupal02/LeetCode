@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ishupal02/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishupal02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ishupal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishupal02/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/ishupal02/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ishupal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/ishupal02/LeetCode/tree/master/0520-detect-capital) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ishupal02/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ishupal02/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishupal02/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ishupal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishupal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
