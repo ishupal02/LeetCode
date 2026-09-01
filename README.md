@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/ishupal02/LeetCode/tree/master/0520-detect-capital) |
+| [1021-remove-outermost-parentheses](https://github.com/ishupal02/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishupal02/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishupal02/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/ishupal02/LeetCode/tree/master/1927-sum-game) |
@@ -185,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ishupal02/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ishupal02/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ishupal02/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
