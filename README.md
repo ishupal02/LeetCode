@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/ishupal02/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3904-smallest-stable-index-ii](https://github.com/ishupal02/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ishupal02/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ishupal02/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3904-smallest-stable-index-ii](https://github.com/ishupal02/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
