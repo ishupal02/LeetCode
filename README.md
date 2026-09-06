@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ishupal02/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishupal02/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/ishupal02/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ishupal02/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ishupal02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ishupal02/LeetCode/tree/master/0231-power-of-two) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishupal02/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/ishupal02/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ishupal02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ishupal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishupal02/LeetCode/tree/master/0344-reverse-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ishupal02/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ishupal02/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ishupal02/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ishupal02/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ishupal02/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ishupal02/LeetCode/tree/master/0231-power-of-two) |
