@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/ishupal02/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ishupal02/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/ishupal02/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ishupal02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ishupal02/LeetCode/tree/master/0509-fibonacci-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ishupal02/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ishupal02/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ishupal02/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ishupal02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/ishupal02/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ishupal02/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
