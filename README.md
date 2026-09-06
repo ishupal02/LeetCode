@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ishupal02/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ishupal02/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/ishupal02/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ishupal02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ishupal02/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ishupal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishupal02/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ishupal02/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ishupal02/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishupal02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ishupal02/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ishupal02/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishupal02/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
