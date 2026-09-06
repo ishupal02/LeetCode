@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/ishupal02/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/ishupal02/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/ishupal02/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/ishupal02/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
