@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ishupal02/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ishupal02/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1927-sum-game](https://github.com/ishupal02/LeetCode/tree/master/1927-sum-game) |
+| [2544-alternating-digit-sum](https://github.com/ishupal02/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ishupal02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
