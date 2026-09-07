@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2090-k-radius-subarray-averages](https://github.com/ishupal02/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ishupal02/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ishupal02/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/ishupal02/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ishupal02/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ishupal02/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ishupal02/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ishupal02/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishupal02/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ishupal02/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Quicksort
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ishupal02/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishupal02/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ishupal02/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishupal02/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ishupal02/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
