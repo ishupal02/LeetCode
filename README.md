@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ishupal02/LeetCode/tree/master/1927-sum-game) |
 | [2544-alternating-digit-sum](https://github.com/ishupal02/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ishupal02/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/ishupal02/LeetCode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
