@@ -258,13 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ishupal02/LeetCode/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ishupal02/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ishupal02/LeetCode/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ishupal02/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ishupal02/LeetCode/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ishupal02/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/ishupal02/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
